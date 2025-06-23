@@ -1,3 +1,0 @@
-[console_scripts]
-scan_client = scan_client:main
-

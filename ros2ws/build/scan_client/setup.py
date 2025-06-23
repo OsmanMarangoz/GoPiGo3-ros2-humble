@@ -1,1 +1,0 @@
-/home/ubuntu/ros2ws/src/scan_client/setup.py

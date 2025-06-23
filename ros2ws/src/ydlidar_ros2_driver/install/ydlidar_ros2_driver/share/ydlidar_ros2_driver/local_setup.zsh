@@ -1,1 +1,0 @@
-/home/ubuntu/ydlidar_ros2_ws/src/ydlidar_ros2_driver/build/ydlidar_ros2_driver/ament_cmake_environment_hooks/local_setup.zsh

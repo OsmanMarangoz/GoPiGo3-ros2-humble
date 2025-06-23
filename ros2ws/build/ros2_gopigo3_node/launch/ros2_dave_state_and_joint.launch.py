@@ -1,1 +1,0 @@
-/home/ubuntu/ros2ws/src/ros2_gopigo3_node/launch/ros2_dave_state_and_joint.launch.py

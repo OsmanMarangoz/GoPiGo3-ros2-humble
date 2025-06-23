@@ -1,1 +1,0 @@
-/home/ubuntu/ros2ws/build/ros2_gopigo3_msg/rosidl_typesupport_introspection_c/ros2_gopigo3_msg/msg/detail/motor_status_lr__rosidl_typesupport_introspection_c.h

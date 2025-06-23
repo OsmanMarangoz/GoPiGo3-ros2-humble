@@ -1,3 +1,0 @@
-[console_scripts]
-libcamera_jpg_pub = libcamera_jpg_pub:main
-
